@@ -1,0 +1,1 @@
+TOKEN TYPE ------------------------------------------------ int Keyword sum Identifier = Operator a Identifier + Operator b Identifier ; Separator float Keyword average Identifier = Operator sum Identifier / Operator 2.0 Constant ; Separator // Comment if Keyword ( Separator average Identifier > Operator 50 Constant ) Separator printf Identifier
